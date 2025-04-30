@@ -1,1 +1,2 @@
-# llama_projects
+# LLM projects
+Exploring different concepts in LLMs
